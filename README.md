@@ -3,10 +3,10 @@
 
 - [Description du Projet et ressources](#description-du-projet-et-ressources)
 - [Technologies Utilisées](https://github.com/DamienL31/Classification-flowers-CNN/blob/main/README.md#technologies-utilis%C3%A9es-)
-  - [Partie 1 : Extraction et exploration des données](https://github.com/DamienL31/Classification-flowers-CNN/blob/main/README.md#partie-1--extraction-et-exploration-des-donn%C3%A9es-)
-  - [Partie 2 : Prétraitement des images](https://github.com/DamienL31/Classification-flowers-CNN/blob/main/README.md#partie-2--pr%C3%A9traitement-des-images-%EF%B8%8F)
-  - [Partie 3 : Construction modèle CNN](#partie-3--Construction-modèle-CNN)
-  - [Partie 3 : Optimisation paramètres et évaluation](#partie-3--Optimisation-paramètres-et-évaluation)
+- [Partie 1 : Extraction et exploration des données](https://github.com/DamienL31/Classification-flowers-CNN/blob/main/README.md#partie-1--extraction-et-exploration-des-donn%C3%A9es-)
+- [Partie 2 : Prétraitement des images](https://github.com/DamienL31/Classification-flowers-CNN/blob/main/README.md#partie-2--pr%C3%A9traitement-des-images-%EF%B8%8F)
+- [Partie 3 : Construction modèle CNN](https://github.com/DamienL31/Classification-flowers-CNN/blob/main/README.md#partie-3--construction-mod%C3%A8le-cnn-)
+- [Partie 4  : Optimisation paramètres et évaluation](https://github.com/DamienL31/Classification-flowers-CNN/blob/main/README.md#partie-4--optimisation-param%C3%A8tres-et-%C3%A9valuation-)
 - [Auteur](#auteur)
 
 ## Description du Projet et ressources
