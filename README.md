@@ -2,8 +2,7 @@
 ## Table des Matières
 
 - [Description du Projet et ressources](#description-du-projet-et-ressources)
-- [Technologies Utilisées](#technologies-utilisées)
-- [Étapes du Projet](#étapes-principales-du-projet)
+- [Technologies Utilisées](#technologies-utilisees-)
   - [Partie 1 : Extraction et exploration des données](#partie-1--extraction-et-exploration-des-données)
   - [Partie 2 : Prétraitement des images](#partie-2--prétraitement-des-images)
   - [Partie 3 : Construction modèle CNN](#partie-3--Construction-modèle-CNN)
@@ -26,15 +25,13 @@ Ce dataset contient environ 4 300 images de fleurs réparties en cinq classes : 
 - TensorFlow, Keras,
 - Scikit-image, ImageDataGenerator, Scikit-learn,
 
-## 🕜 Etapes principales du projet 🕜
-
-📂 ### Partie 1 : Extraction et exploration des données 📂
+## Partie 1 : Extraction et exploration des données 📂
 
 - Chargement des données réparties en 5 dossiers étiquettés (Roses, Tulip, Sunflower..).
   
 - Décompte du nombre d'images pour voir la répartition par catégories.
 
-🖼️ ### Partie 2 : Prétraitement des images 🖼️
+## Partie 2 : Prétraitement des images 🖼️
 
 - Redimensionnement de toutes les images pour les uniformiser en 128*128
 
