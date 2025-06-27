@@ -2,9 +2,9 @@
 ## Table des Matières
 
 - [Description du Projet et ressources](#description-du-projet-et-ressources)
-- [Technologies Utilisées](#technologies-utilisees-)
-  - [Partie 1 : Extraction et exploration des données](#partie-1--extraction-et-exploration-des-données)
-  - [Partie 2 : Prétraitement des images](#partie-2--prétraitement-des-images)
+- [Technologies Utilisées](https://github.com/DamienL31/Classification-flowers-CNN/blob/main/README.md#technologies-utilis%C3%A9es-)
+  - [Partie 1 : Extraction et exploration des données](https://github.com/DamienL31/Classification-flowers-CNN/blob/main/README.md#partie-1--extraction-et-exploration-des-donn%C3%A9es-)
+  - [Partie 2 : Prétraitement des images](https://github.com/DamienL31/Classification-flowers-CNN/blob/main/README.md#partie-2--pr%C3%A9traitement-des-images-%EF%B8%8F)
   - [Partie 3 : Construction modèle CNN](#partie-3--Construction-modèle-CNN)
   - [Partie 3 : Optimisation paramètres et évaluation](#partie-3--Optimisation-paramètres-et-évaluation)
 - [Auteur](#auteur)
@@ -39,13 +39,13 @@ Ce dataset contient environ 4 300 images de fleurs réparties en cinq classes : 
 
 - Normalisation des pixels dans la plage [0,1] et encodage des étiquettes
 
-🤖  ### Partie 3 : Construction modèle CNN 🤖
+## Partie 3 : Construction modèle CNN 🤖
 
 - Modèle 'Sequential' en Keras avec 3 couches de Conv2D + MaxPooling2D + 1 couche Flatten +  1 couche Dense avec 128 neuronnes +  Dropout de 50% + couche de sortie 'Dense' avec Softmax 5 classes, compilation avec optimiseur 'Adam un learning rate = 0.001, perte 'sparse_categorical_crossentropy' et accuracy comme mètrique, entraînement sur 12 epochs batch_size = 32
 
 - Evaluation de la performance avec une courbe de précision et une courbe de pertes. ** Accuracy 65% **
 
-🚀 ### Partie 4 : Optimisation paramètres et évaluation 🚀
+## Partie 4 : Optimisation paramètres et évaluation 🚀
 
 - Utilisation de 'DataImageGenerator' pour augmenter artificiellement le jeu d'entrainement avec données variées
 
